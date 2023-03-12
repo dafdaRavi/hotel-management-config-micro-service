@@ -1,6 +1,6 @@
-spring:   
-   application:
-       name: config-server-defoult
+#spring:   
+#   application:
+#       name: config-server-defoult
 
 # eureka................       
 eureka:
